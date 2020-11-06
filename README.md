@@ -1,15 +1,1 @@
-import turtle
-turtle.begin_fill()
-turtle.color("red")
-turtle.shape("square")
-turtle.left(50)
-turtle.forward(100)
-turtle.circle(40,180)
-turtle.end_fill()
-turtle.begin_fill()
-turtle.color("black")
-turtle.left(260)
-turtle.circle(40,180)
-turtle.forward(100)
-turtle.end_fill()
-turtle.done()
+Duo-Color-s-Heart
